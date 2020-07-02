@@ -9,3 +9,7 @@ Exercises from "Data Analysis Recipes: Fitting a Model to Data"
 * This exercise uses a standard linear algebra method to fit a straight line for all data points
 * Once the first four data points are included, the standard linear algebra method begins to fail
 * *COMPLETED JUL 2, 2020*
+### Exercise 3
+* This exercise generalizes the method secribed in this section to fit a second order relationship
+* Currently having issues with **q** value
+* *WORK IN PROGRESS AS OF JULY 2, 2020*
