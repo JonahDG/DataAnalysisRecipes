@@ -1,6 +1,6 @@
-# DataAnalysisRecipes
+# Preliminary Research Work
+## Data Analysis Recipe
 Exercises from "Data Analysis Recipes: Fitting a Model to Data"
-## Section 1
 ### Exercise 1
 * This exercise uses a standard linear algebra method to fit a straight line for data points 5 through 20
 * This method works fairly well with these data points
@@ -16,4 +16,10 @@ Exercises from "Data Analysis Recipes: Fitting a Model to Data"
 * If the poor data values (1-4) are used the curve is positive
 * *COMPLETED AS OF JULY 9, 2020*
 
-# ScatterPlotOfOrbitalPeriodVsEccentricityColoredByRadialVelocity 
+## Scatter Plot Of Orbital Period Vs Eccentricity Colored By Radial Velocity 
+### Data
+* The data for this plot is the "Gold Sample" from [*Close Binary Companions to APOGEE DR16 Stars: 20,000 Binary-star Systems Across the Color-Magnitude Diagram*](https://arxiv.org/abs/2002.00014)
+* The x axis is the Orbital Period of the binary stars in the sample.
+  * The Orbital Period has been normalized logarithmically
+* The y axis is the eccentricty of the binary star orbits
+* The plot is colored by the radial velocity of the binary stars
