@@ -11,5 +11,9 @@ Exercises from "Data Analysis Recipes: Fitting a Model to Data"
 * *COMPLETED JUL 2, 2020*
 ### Exercise 3
 * This exercise generalizes the method secribed in this section to fit a second order relationship
-* Currently having issues with **q** value
-* *WORK IN PROGRESS AS OF JULY 2, 2020*
+* This exercises creates a curve fit of the data
+* If all data values are used the curve is negative
+* If the poor data values (1-4) are used the curve is positive
+* *COMPLETED AS OF JULY 9, 2020*
+
+# 
