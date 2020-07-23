@@ -16,4 +16,4 @@ Exercises from "Data Analysis Recipes: Fitting a Model to Data"
 * If the poor data values (1-4) are used the curve is positive
 * *COMPLETED AS OF JULY 9, 2020*
 
-# 
+# ScatterPlotOfOrbitalPeriodVsEccentricityColoredByRadialVelocity 
